@@ -1,7 +1,7 @@
 We decided to include in our delivery folder all the most relevant approaches, features, 
 and architectures we have implemented during the challenge, as we have mentioned them in the report.
 
-'DELIVERY_Aielli_Buono_Buranti.ipynb' contains the notebook corresponding to our best model according to
+'DELIVERY.ipynb' contains the notebook corresponding to our best model according to
 the evaluation on the Codalab test set.
 
 'scaler' is needed for a correct execution of the delivery notebook.
